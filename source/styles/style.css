@@ -45,3 +45,20 @@
     justify-content: flex-end;
 }
 
+.header-sixth {
+    justify-content: unset;
+    height: auto;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.header-sixth a {
+    max-width: 80px;
+    border: 1px solid blue;
+}
+
+.items-top a{
+    align-items: unset;
+
+}
+
